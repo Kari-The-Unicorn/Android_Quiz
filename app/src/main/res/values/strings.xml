@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz_Android1</string>
+    <string name="btn_1">Hello</string>
+    <string name="btn_2">Pys</string>
+    <string name="btn_3">Ptys</string>
+    <string name="btn_4">Kubus</string>
+    <string name="Version">Version 1.0</string>
+</resources>
